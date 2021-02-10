@@ -17,10 +17,10 @@ jobs:
           prerelease: false
           files: |
             mac-intel/approxmc
-	    mac-intel/libcryptominisat5.5.8.dylib
+            mac-intel/libcryptominisat5.5.8.dylib
             mac-intel/cryptominisat5
-	    mac-intel/libgmp.10.dylib
+            mac-intel/libgmp.10.dylib
             mac-intel/libapproxmc.4.0.dylib
-	    mac-intel/libunigen.2.5.dylib
+            mac-intel/libunigen.2.5.dylib
             mac-intel/libboost_program_options-mt.dylib
-	    mac-intel/unigen
+            mac-intel/unigen
